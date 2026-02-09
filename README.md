@@ -1,3 +1,4 @@
+
 # Task Manager Web App (Node.js + Express + MySQL)
 
 ## Features
@@ -26,3 +27,6 @@ CREATE TABLE tasks (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
+=======
+# task-manager-assignment
+Full-stack Task Manager application built as an internship assignment using Node.js, Express, and MySQL with complete CRUD operations.
